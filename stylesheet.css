@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Vermandois';
+    src: url('Vermandois.woff2') format('woff2'),
+        url('Vermandois.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
